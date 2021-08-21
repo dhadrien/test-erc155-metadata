@@ -1,13 +1,13 @@
 {
 	"name": "ERC1155 test",
-	"description": "Cat 1010",
-	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/1200px-Cat_November_2010-1a.jpg",
+	"description": "Cat 2130123",
+	"image": "https://cdn.theatlantic.com/thumbor/XCE6JmFAoBnzgBXWIKl7Wb-q8iI=/0x62:2000x1187/1952x1098/media/img/mt/2018/03/AP_325360162607/original.jpg",
 	"properties": {
 		"simple_property": "example value",
 		"rich_property": {
 			"name": "Badge Id",
-			"value": "1010",
-			"display_value": "1010 bro",
+			"value": "2130123",
+			"display_value": "2130123 bro",
 			"class": "emphasis",
 			"css": {
 				"color": "#ffffff",

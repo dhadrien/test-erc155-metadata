@@ -1,13 +1,13 @@
 {
 	"name": "ERC1155 test",
-	"description": "Cat 1010",
-	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/1200px-Cat_November_2010-1a.jpg",
+	"description": "Cat 13202",
+	"image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg",
 	"properties": {
 		"simple_property": "example value",
 		"rich_property": {
 			"name": "Badge Id",
-			"value": "1010",
-			"display_value": "1010 bro",
+			"value": "13202",
+			"display_value": "13202 bro",
 			"class": "emphasis",
 			"css": {
 				"color": "#ffffff",
