@@ -1,0 +1,24 @@
+{
+	"name": "ERC1155 test",
+	"description": "Cat 1010",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/1200px-Cat_November_2010-1a.jpg",
+	"properties": {
+		"simple_property": "example value",
+		"rich_property": {
+			"name": "Badge Id",
+			"value": "1010",
+			"display_value": "1010 bro",
+			"class": "emphasis",
+			"css": {
+				"color": "#ffffff",
+				"font-weight": "bold",
+				"text-decoration": "underline"
+			}
+		},
+		"array_property": {
+			"name": "Name",
+			"value": [1,2,3,4],
+			"class": "emphasis"
+		}
+	}
+}
