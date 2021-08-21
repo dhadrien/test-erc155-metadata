@@ -1,7 +1,7 @@
 {
 	"name": "ERC1155 test",
 	"description": "Cat 1010",
-	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/1200px-Cat_November_2010-1a.jpg",
+	"image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4d\/Cat_November_2010-1a.jpg\/1200px-Cat_November_2010-1a.jpg",
 	"properties": {
 		"simple_property": "example value",
 		"rich_property": {
